@@ -1,0 +1,362 @@
+[
+    {
+        "id": "pair-001",
+        "global_article": {
+            "title": "US-Iran military tensions escalate in Strait of Hormuz",
+            "body": "The United States has deployed additional naval assets to the Persian Gulf following a series of escalatory incidents involving Iranian Revolutionary Guard Corps vessels in the Strait of Hormuz. The Pentagon confirmed the deployment of the USS Dwight D. Eisenhower carrier strike group to the region. Iran has characterized the deployment as a provocation, while Gulf states have called for de-escalation. The Strait of Hormuz, through which 20% of the world's oil passes, remains at the center of the tension.",
+            "source": "The Guardian",
+            "published_at": "2025-05-20T08:00:00Z"
+        },
+        "local_article": {
+            "title": "CAIR San Diego activates support hotline amid Middle East tensions",
+            "body": "The Council on American-Islamic Relations San Diego chapter has activated its hate incident reporting hotline in response to rising Middle East tensions. Community leaders report increased anxiety among local Muslim-American communities, particularly among Somali, Yemeni and Iranian diaspora members. CAIR San Diego reported the move is proactive rather than reactive but noted historical patterns of increased bias incidents during international conflict escalations.",
+            "source": "KPBS",
+            "published_at": "2025-05-21T14:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "high",
+        "topics_expected": ["Community & Demographics", "Policy"]
+    },
+    {
+        "id": "pair-002",
+        "global_article": {
+            "title": "Sierra Nevada snowpack falls to 40% of normal in third drought year",
+            "body": "California's Sierra Nevada snowpack measured just 40% of its historical average for this date, marking the third consecutive drought year. State water officials said the figures are alarming and signal a tightening water supply outlook for the year ahead. The Department of Water Resources reported that manual snow surveys at Phillips Station showed no snow, a rare occurrence for May.",
+            "source": "CalMatters",
+            "published_at": "2025-04-15T10:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego County Water Authority activates Tier 2 drought restrictions",
+            "body": "The San Diego County Water Authority has activated Tier 2 of its drought contingency plan, mandating a 12% reduction in water use across the county. The decision follows declining reservoir levels in the Colorado River system. Local water districts will implement varying conservation measures including restrictions on outdoor watering days.",
+            "source": "San Diego Union-Tribune",
+            "published_at": "2025-04-20T09:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "high",
+        "topics_expected": ["Environment", "Economy"]
+    },
+    {
+        "id": "pair-003",
+        "global_article": {
+            "title": "Federal port automation rules take effect at major West Coast ports",
+            "body": "New federal regulations permitting increased automation at the Port of Long Beach and Los Angeles took effect this week. The rules allow terminal operators to implement automated cranes and stacking systems. The International Longshore and Warehouse Union has raised concerns about job displacement. The ports handle 40% of all US container imports.",
+            "source": "Journal of Commerce",
+            "published_at": "2025-03-01T06:00:00Z"
+        },
+        "local_article": {
+            "title": "Port of San Diego reports cargo increase amid LA port automation shift",
+            "body": "The Port of San Diego has reported a 15% increase in cargo throughput as shipping lines redirect vessels away from automated terminals at the Port of LA-Long Beach. ILWU Local 29, representing local longshoremen, said they are in early discussions with port management about labor protections. Local logistics firms report increased warehousing demand.",
+            "source": "Voice of San Diego",
+            "published_at": "2025-04-10T11:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "medium",
+        "topics_expected": ["Economy", "Infrastructure"]
+    },
+    {
+        "id": "pair-004",
+        "global_article": {
+            "title": "WHO declares new variant of concern as COVID-19 cases rise globally",
+            "body": "The World Health Organization has declared a new COVID-19 variant a variant of concern, as cases rise in several countries. The variant appears to be more transmissible but not more severe than previous strains. Health officials recommend updated booster shots for vulnerable populations.",
+            "source": "Reuters",
+            "published_at": "2025-02-10T12:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego Padres announce new spring training facility in Peoria",
+            "body": "The San Diego Padres have announced plans to build a new spring training facility in Peoria, Arizona. The $100 million project will include four practice fields and a new clubhouse. Construction is expected to begin next year and create 200 temporary construction jobs.",
+            "source": "San Diego Union-Tribune",
+            "published_at": "2025-02-15T08:00:00Z"
+        },
+        "valid_connection": false,
+        "confidence_expected": "low",
+        "topics_expected": []
+    },
+    {
+        "id": "pair-005",
+        "global_article": {
+            "title": "Federal Reserve raises interest rates by 25 basis points",
+            "body": "The Federal Reserve announced a 25 basis point increase to the federal funds rate, citing persistent inflation above the 2% target. The rate now stands at 5.5%. The Fed indicated a cautious approach to further hikes, noting progress on inflation but a resilient labor market. Mortgage rates are expected to remain elevated.",
+            "source": "Reuters",
+            "published_at": "2025-01-30T14:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego home prices dip slightly as mortgage rates hover above 7%",
+            "body": "San Diego County median home prices dipped 2% month-over-month in January, with the median price falling to $835,000. The dip is attributed to persistently high mortgage rates above 7% reducing buyer purchasing power. Inventory remains low, with only a 2.5-month supply, keeping upward pressure on prices despite lower demand.",
+            "source": "San Diego Union-Tribune",
+            "published_at": "2025-02-05T10:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "high",
+        "topics_expected": ["Economy"]
+    },
+    {
+        "id": "pair-006",
+        "global_article": {
+            "title": "EU launches carbon border adjustment mechanism for imports",
+            "body": "The European Union has officially launched its Carbon Border Adjustment Mechanism, imposing carbon tariffs on imported goods including steel, aluminum, cement, and electricity. The policy aims to prevent carbon leakage and encourage cleaner production globally. Exporters to the EU must now purchase carbon certificates.",
+            "source": "BBC News",
+            "published_at": "2025-01-15T09:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego craft breweries expand export partnerships with European distributors",
+            "body": "Several San Diego craft breweries have announced new distribution agreements with European partners. Local brewers cited growing demand for craft beer in European markets. The partnerships will primarily export IPAs and specialty ales. Brewers noted EU regulations around packaging and labeling as minor hurdles.",
+            "source": "Voice of San Diego",
+            "published_at": "2025-01-20T14:00:00Z"
+        },
+        "valid_connection": false,
+        "confidence_expected": "low",
+        "topics_expected": []
+    },
+    {
+        "id": "pair-007",
+        "global_article": {
+            "title": "India announces new restrictions on pharmaceutical exports amid shortage",
+            "body": "India, the world's largest supplier of generic pharmaceuticals, has announced new restrictions on the export of certain active pharmaceutical ingredients due to domestic shortages. The restrictions affect antibiotics and cardiovascular drugs. India supplies 40% of US generic drug imports.",
+            "source": "The Guardian",
+            "published_at": "2025-03-10T07:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego hospital systems report no immediate drug shortage, monitor supply chains",
+            "body": "Major San Diego hospital systems including Scripps Health, Sharp Healthcare, and UC San Diego Health report no immediate drug shortages despite new Indian export restrictions. Hospital pharmacy directors say they have 60-90 day inventories of affected medications and are working with alternative suppliers. The systems are monitoring the situation closely.",
+            "source": "KPBS",
+            "published_at": "2025-03-12T16:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "medium",
+        "topics_expected": ["Public Health", "Economy"]
+    },
+    {
+        "id": "pair-008",
+        "global_article": {
+            "title": "Mexico announces major water infrastructure investment for northern border",
+            "body": "The Mexican government announced a $2 billion investment in water infrastructure for northern border states, including Baja California. The investment targets wastewater treatment plants, desalination facilities, and distribution system upgrades. Officials cite both public health and treaty obligations under the 1944 Water Treaty with the US.",
+            "source": "Reuters",
+            "published_at": "2025-04-05T11:00:00Z"
+        },
+        "local_article": {
+            "title": "Tijuana River sewage crisis: San Diego officials call for federal intervention",
+            "body": "San Diego elected officials are renewing calls for federal intervention in the ongoing Tijuana River sewage crisis. Cross-border sewage flows have increased following winter storms, causing beach closures from Imperial Beach to Coronado. The South Bay wastewater treatment plant is operating at capacity. Federal funding for a replacement plant remains stalled in Congress.",
+            "source": "San Diego Union-Tribune",
+            "published_at": "2025-04-08T10:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "medium",
+        "topics_expected": ["Environment", "Infrastructure", "Policy"]
+    },
+    {
+        "id": "pair-009",
+        "global_article": {
+            "title": "US Department of Education announces new Title IX rules for campus sexual misconduct",
+            "body": "The US Department of Education has issued new Title IX regulations governing how colleges handle sexual misconduct allegations. The rules expand protections for LGBTQ+ students and restore requirements for timely investigations. Universities must comply by the start of the next academic year or risk losing federal funding.",
+            "source": "NPR",
+            "published_at": "2025-02-20T08:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego Zoo announces birth of endangered pygmy hippopotamus calf",
+            "body": "The San Diego Zoo Wildlife Alliance announced the birth of a healthy pygmy hippopotamus calf, a major milestone for the endangered species breeding program. The calf, born to first-time parents, is bonding well with its mother. Zoo officials said the birth contributes to genetic diversity of the captive population.",
+            "source": "KPBS",
+            "published_at": "2025-02-22T12:00:00Z"
+        },
+        "valid_connection": false,
+        "confidence_expected": "low",
+        "topics_expected": []
+    },
+    {
+        "id": "pair-010",
+        "global_article": {
+            "title": "AI chip export restrictions expanded to additional countries",
+            "body": "The Biden administration announced expanded restrictions on exports of advanced AI semiconductors to additional countries, citing national security concerns. The new rules cover Nvidia's H100 and B200 chips and require licenses for exports to a broader set of nations. Chipmakers warn the restrictions could harm US competitiveness.",
+            "source": "The New York Times",
+            "published_at": "2025-03-20T15:00:00Z"
+        },
+        "local_article": {
+            "title": "Qualcomm announces new AI chip manufacturing partnership in San Diego",
+            "body": "Qualcomm announced a new partnership to manufacture AI accelerator chips at its San Diego facilities, creating 500 new engineering jobs. The partnership with an undisclosed foundry partner will focus on edge AI chips for mobile devices. Qualcomm executives cited San Diego's talent pipeline from UC San Diego as a key factor.",
+            "source": "San Diego Union-Tribune",
+            "published_at": "2025-03-25T09:00:00Z"
+        },
+        "valid_connection": false,
+        "confidence_expected": "low",
+        "topics_expected": []
+    },
+    {
+        "id": "pair-011",
+        "global_article": {
+            "title": "UN report warns of accelerating sea level rise threatening coastal cities",
+            "body": "A new UN Intergovernmental Panel on Climate Change report warns that sea levels are rising faster than previously projected, threatening coastal cities worldwide. The report projects 1-2 feet of sea level rise by 2050 even under moderate emissions scenarios. Coastal flooding events expected to increase 10-15x current frequency.",
+            "source": "BBC News",
+            "published_at": "2025-01-10T10:00:00Z"
+        },
+        "local_article": {
+            "title": "Imperial Beach approves $50 million seawall project to combat coastal erosion",
+            "body": "The Imperial Beach City Council has approved a $50 million seawall and beach nourishment project to combat accelerating coastal erosion. The project, partially funded by FEMA and state grants, will construct a 1.5-mile living shoreline combining engineered seawalls with restored wetland habitat. Construction is expected to begin next year.",
+            "source": "Voice of San Diego",
+            "published_at": "2025-01-25T13:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "high",
+        "topics_expected": ["Environment", "Infrastructure"]
+    },
+    {
+        "id": "pair-012",
+        "global_article": {
+            "title": "Japan announces restart of nuclear reactors to meet energy demand",
+            "body": "Japan's government announced the restart of three additional nuclear reactors to meet growing energy demand and reduce reliance on imported LNG. The reactors at Takahama and Sendai plants will come online over the next 18 months. The move reverses some post-Fukushima nuclear restrictions.",
+            "source": "Reuters",
+            "published_at": "2025-02-01T07:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego Gas & Electric proposes new battery storage facility in Escondido",
+            "body": "SDG&E has proposed a new 200MW battery storage facility in Escondido to support grid reliability during peak demand periods. The facility would use lithium-iron-phosphate battery technology and is expected to come online in 2027. Environmental review is underway. The project is part of California's goal of 100% clean electricity by 2045.",
+            "source": "KPBS",
+            "published_at": "2025-02-10T14:00:00Z"
+        },
+        "valid_connection": false,
+        "confidence_expected": "low",
+        "topics_expected": []
+    },
+    {
+        "id": "pair-013",
+        "global_article": {
+            "title": "Arctic blast brings record-low temperatures to central US, straining power grid",
+            "body": "An Arctic weather system has brought record-low temperatures to the central United States, with wind chills reaching -40°F in parts of the Midwest. The extreme cold has strained power grids, with Texas ERCOT issuing conservation alerts. Several states have declared emergencies. Heating costs are expected to spike.",
+            "source": "The Guardian",
+            "published_at": "2025-01-05T16:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego gas prices hit lowest level since 2023 as winter demand drops",
+            "body": "San Diego gas prices have fallen to their lowest levels since 2023, with the average price per gallon dropping below $4.50 for the first time in months. Analysts attribute the decline to lower winter demand and stable refinery output. Prices remain higher than the California average due to local taxes and environmental fees.",
+            "source": "San Diego Union-Tribune",
+            "published_at": "2025-01-08T10:00:00Z"
+        },
+        "valid_connection": false,
+        "confidence_expected": "low",
+        "topics_expected": []
+    },
+    {
+        "id": "pair-014",
+        "global_article": {
+            "title": "US-Mexico border encounters drop 40% following new enforcement measures",
+            "body": "Border encounters at the US-Mexico border have dropped 40% over the past three months following new enforcement measures. DHS officials credit increased cooperation with Mexican authorities and expanded Title 42-like expedited removal authorities. Humanitarian groups raise concerns about access to asylum processing.",
+            "source": "NPR",
+            "published_at": "2025-04-01T08:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego border shelters report declining populations, pivot to other services",
+            "body": "San Diego border shelters and humanitarian aid organizations are reporting declining populations following reduced border encounters. Several shelters are pivoting services toward supporting existing refugee and asylum-seeking populations already in San Diego County. Jewish Family Service of San Diego and the San Diego Rapid Response Network are adjusting their operational models.",
+            "source": "Voice of San Diego",
+            "published_at": "2025-04-05T11:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "high",
+        "topics_expected": ["Community & Demographics", "Policy"]
+    },
+    {
+        "id": "pair-015",
+        "global_article": {
+            "title": "Global cocoa prices triple as West African crop failures deepen",
+            "body": "Global cocoa prices have tripled over the past year as disease and climate-related crop failures in Ivory Coast and Ghana, which produce 60% of the world's cocoa, continue to worsen. Chocolate manufacturers are warning of price increases and potential recipe changes. The crisis threatens the livelihoods of 2 million West African farmers.",
+            "source": "BBC News",
+            "published_at": "2025-03-05T12:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego's Ghirardelli Ice Cream and Chocolate Shop reports higher prices, steady demand",
+            "body": "The Ghirardelli Ice Cream and Chocolate Shop in San Diego's Gaslamp Quarter has raised prices 15% in response to soaring cocoa costs. Despite higher prices, the shop reports steady customer demand. Manager noted customers are buying smaller quantities of premium chocolates. The shop is a popular tourist destination in Seaport Village.",
+            "source": "San Diego Union-Tribune",
+            "published_at": "2025-03-15T14:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "medium",
+        "topics_expected": ["Economy"]
+    },
+    {
+        "id": "pair-016",
+        "global_article": {
+            "title": "New streaming rules require Netflix, Disney+ to invest in Canadian content",
+            "body": "Canadian regulators have finalized rules requiring international streaming platforms like Netflix and Disney+ to invest a percentage of their Canadian revenue into locally produced content. The rules, part of the Online Streaming Act, aim to boost Canadian cultural production. Platforms must comply within 12 months.",
+            "source": "Reuters",
+            "published_at": "2025-01-20T09:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego Film Festival announces record submissions for 2025 event",
+            "body": "The San Diego Film Festival has announced a record 2,500 submissions for its 2025 event, a 30% increase over last year. Festival organizers attribute the growth to expanded categories and increased interest in independent film. The festival runs September 10-15 at venues across downtown San Diego.",
+            "source": "KPBS",
+            "published_at": "2025-02-01T10:00:00Z"
+        },
+        "valid_connection": false,
+        "confidence_expected": "low",
+        "topics_expected": []
+    },
+    {
+        "id": "pair-017",
+        "global_article": {
+            "title": "OPEC+ extends production cuts through Q3 2025, oil prices rise",
+            "body": "OPEC+ has extended its voluntary production cuts of 2.2 million barrels per day through the third quarter of 2025. The decision sent Brent crude above $85 per barrel. The alliance cited ongoing concerns about global demand growth and a desire to support market stability. US gasoline prices are expected to rise.",
+            "source": "Reuters",
+            "published_at": "2025-02-28T16:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego MTS considers fare increase to offset rising operating costs",
+            "body": "San Diego's Metropolitan Transit System is considering a fare increase of up to 10% to offset rising operating costs including fuel and labor. MTS Board will vote on the proposal next month. The increase would affect bus and trolley fares. Public hearings are scheduled. Ridership has recovered to 80% of pre-pandemic levels.",
+            "source": "KPBS",
+            "published_at": "2025-03-10T08:00:00Z"
+        },
+        "valid_connection": false,
+        "confidence_expected": "low",
+        "topics_expected": []
+    },
+    {
+        "id": "pair-018",
+        "global_article": {
+            "title": "CDC warns of rising drug-resistant tuberculosis cases globally",
+            "body": "The US Centers for Disease Control and Prevention has issued a warning about rising cases of drug-resistant tuberculosis globally, particularly in Southeast Asia and parts of Africa. The CDC recommends enhanced screening for travelers and immigrants from affected regions. Multidrug-resistant TB requires longer, more expensive treatment regimens.",
+            "source": "NPR",
+            "published_at": "2025-03-15T07:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego County TB cases remain low, health officials monitor global trends",
+            "body": "San Diego County health officials report that local tuberculosis cases remain low, with 45 cases reported in 2024. However, officials note they are closely monitoring global drug-resistant TB trends given San Diego's role as a border region and port city. The county's TB control program conducts targeted screening in high-risk populations.",
+            "source": "KPBS",
+            "published_at": "2025-03-22T13:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "medium",
+        "topics_expected": ["Public Health"]
+    },
+    {
+        "id": "pair-019",
+        "global_article": {
+            "title": "NASA delays Artemis moon mission to 2027 after technical setbacks",
+            "body": "NASA has announced another delay to its Artemis moon program, pushing the first crewed lunar landing to 2027. Technical issues with the Orion spacecraft's heat shield and life support systems were cited. The delay adds $5 billion to the projected program cost. International partners express frustration but remain committed.",
+            "source": "BBC News",
+            "published_at": "2025-01-12T15:00:00Z"
+        },
+        "local_article": {
+            "title": "General Atomics awarded $250 million NASA contract for space-based sensor",
+            "body": "General Atomics in San Diego has been awarded a $250 million NASA contract to develop a next-generation space-based sensor system for Earth observation. The sensor will monitor climate indicators including atmospheric composition and ocean temperatures. The contract will create 150 engineering jobs at General Atomics' Kearny Mesa facility.",
+            "source": "San Diego Union-Tribune",
+            "published_at": "2025-02-01T10:00:00Z"
+        },
+        "valid_connection": false,
+        "confidence_expected": "low",
+        "topics_expected": []
+    },
+    {
+        "id": "pair-020",
+        "global_article": {
+            "title": "California high-speed rail authority secures additional federal funding",
+            "body": "The California High-Speed Rail Authority has secured an additional $3.1 billion in federal funding for the San Francisco to Los Angeles rail project. The funding will support continued construction in the Central Valley. The project, now estimated to cost $128 billion, has faced decades of delays and cost overruns. Completion of the initial Merced-Bakersfield segment is targeted for 2030.",
+            "source": "CalMatters",
+            "published_at": "2025-02-10T10:00:00Z"
+        },
+        "local_article": {
+            "title": "San Diego SANDAG proposes new rail connection to LA, seeks federal support",
+            "body": "SANDAG has proposed a new rail connection between San Diego and Los Angeles, the LOSSAN Rail Corridor modernization project, seeking federal infrastructure funding. The $2 billion project would upgrade tracks and signals to enable higher-speed service. Completion would reduce travel time between the cities from 3 hours to 2 hours.",
+            "source": "Voice of San Diego",
+            "published_at": "2025-02-25T11:00:00Z"
+        },
+        "valid_connection": true,
+        "confidence_expected": "medium",
+        "topics_expected": ["Infrastructure", "Economy"]
+    }
+]
