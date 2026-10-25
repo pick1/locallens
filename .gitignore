@@ -15,3 +15,7 @@ build/
 .ruff_cache/
 *.log
 .DS_Store
+
+# local data
+*.db
+*.sqlite
